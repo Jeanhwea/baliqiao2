@@ -3,9 +3,9 @@ package services
 import (
 	"errors"
 
+	"github.com/Jeanhwea/baliqiao2/lib"
+	"github.com/Jeanhwea/baliqiao2/models"
 	"github.com/dgrijalva/jwt-go"
-	"github.com/dipeshdulal/clean-gin/lib"
-	"github.com/dipeshdulal/clean-gin/models"
 )
 
 // JWTAuthService service relating to authorization

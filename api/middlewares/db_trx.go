@@ -3,8 +3,8 @@ package middlewares
 import (
 	"net/http"
 
-	"github.com/dipeshdulal/clean-gin/constants"
-	"github.com/dipeshdulal/clean-gin/lib"
+	"github.com/Jeanhwea/baliqiao2/constants"
+	"github.com/Jeanhwea/baliqiao2/lib"
 	"github.com/gin-gonic/gin"
 )
 

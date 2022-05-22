@@ -1,9 +1,9 @@
 package commands
 
 import (
-	"github.com/dipeshdulal/clean-gin/api/middlewares"
-	"github.com/dipeshdulal/clean-gin/api/routes"
-	"github.com/dipeshdulal/clean-gin/lib"
+	"github.com/Jeanhwea/baliqiao2/api/middlewares"
+	"github.com/Jeanhwea/baliqiao2/api/routes"
+	"github.com/Jeanhwea/baliqiao2/lib"
 	"github.com/spf13/cobra"
 )
 

@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"github.com/dipeshdulal/clean-gin/lib"
+	"github.com/Jeanhwea/baliqiao2/lib"
 	cors "github.com/rs/cors/wrapper/gin"
 )
 

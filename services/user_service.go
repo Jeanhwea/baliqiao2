@@ -1,9 +1,9 @@
 package services
 
 import (
-	"github.com/dipeshdulal/clean-gin/lib"
-	"github.com/dipeshdulal/clean-gin/models"
-	"github.com/dipeshdulal/clean-gin/repository"
+	"github.com/Jeanhwea/baliqiao2/lib"
+	"github.com/Jeanhwea/baliqiao2/models"
+	"github.com/Jeanhwea/baliqiao2/repository"
 	"gorm.io/gorm"
 )
 

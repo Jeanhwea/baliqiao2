@@ -1,4 +1,4 @@
-module github.com/dipeshdulal/clean-gin
+module github.com/Jeanhwea/baliqiao2
 
 go 1.17
 

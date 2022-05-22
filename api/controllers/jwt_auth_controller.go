@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"github.com/dipeshdulal/clean-gin/lib"
-	"github.com/dipeshdulal/clean-gin/services"
+	"github.com/Jeanhwea/baliqiao2/lib"
+	"github.com/Jeanhwea/baliqiao2/services"
 	"github.com/gin-gonic/gin"
 )
 

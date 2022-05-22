@@ -1,12 +1,12 @@
 package bootstrap
 
 import (
-	"github.com/dipeshdulal/clean-gin/api/controllers"
-	"github.com/dipeshdulal/clean-gin/api/middlewares"
-	"github.com/dipeshdulal/clean-gin/api/routes"
-	"github.com/dipeshdulal/clean-gin/lib"
-	"github.com/dipeshdulal/clean-gin/repository"
-	"github.com/dipeshdulal/clean-gin/services"
+	"github.com/Jeanhwea/baliqiao2/api/controllers"
+	"github.com/Jeanhwea/baliqiao2/api/middlewares"
+	"github.com/Jeanhwea/baliqiao2/api/routes"
+	"github.com/Jeanhwea/baliqiao2/lib"
+	"github.com/Jeanhwea/baliqiao2/repository"
+	"github.com/Jeanhwea/baliqiao2/services"
 	"go.uber.org/fx"
 )
 

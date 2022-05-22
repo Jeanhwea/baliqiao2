@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/dipeshdulal/clean-gin/lib"
+	"github.com/Jeanhwea/baliqiao2/lib"
 	"gorm.io/gorm"
 )
 

@@ -9,7 +9,6 @@ import (
 	"go.uber.org/fx/fxevent"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-
 	gormlogger "gorm.io/gorm/logger"
 )
 
